@@ -39,6 +39,10 @@ header{
     color: #fff;
 }
 
+.navbar-contacts{
+    text-align: right;
+}
+
 .navbar-text{
     display: block;
     color: #fff;
