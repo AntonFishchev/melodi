@@ -85,6 +85,10 @@ svg path:hover{
     cursor: pointer;
 }
 
+.current-floor{
+    opacity: 1;
+}
+
 main{
     display: flex;
 }
